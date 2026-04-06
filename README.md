@@ -1,6 +1,6 @@
 > [!NOTE]
-> ### This project is hosted and maintained on Codeberg:
-> ### https://codeberg.org/pgml/zig-deferred
+> #### This project is hosted and maintained on Codeberg:
+> #### https://codeberg.org/pgml/zig-deferred
 > 
 
 # zig-deferred
